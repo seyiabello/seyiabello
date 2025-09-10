@@ -9,7 +9,7 @@
 
 ## 🔐 Cybersecurity Projects  
 
-### 🔹 [Cybersecurity-Home-Lab-Penetration-Testing-Defense](https://github.com/seyiabello/cybersecurity-home-lab)  
+### 🔹 [[Cybersecurity-Home-Lab-Penetration-Testing-Defense](https://github.com/seyiabello/Cybersecurity-Home-Lab-Penetration-Testing-Defense)](https://github.com/seyiabello/cybersecurity-home-lab)  
 Simulated attacker vs. defender workflows in a VirtualBox lab with Ubuntu & Kali.  
 - Ran Nmap scans, Hydra brute-force, and Wireshark captures.  
 - Strengthened Linux administration and penetration testing skills.  
