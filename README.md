@@ -7,28 +7,22 @@
 
 ---
 
-## 🔐 Cybersecurity Projects  
 
-### 🔹 [[Cybersecurity-Home-Lab-Penetration-Testing-Defense](https://github.com/seyiabello/Cybersecurity-Home-Lab-Penetration-Testing-Defense)](https://github.com/seyiabello/cybersecurity-home-lab)  
-Simulated attacker vs. defender workflows in a VirtualBox lab with Ubuntu & Kali.  
-- Ran Nmap scans, Hydra brute-force, and Wireshark captures.  
-- Strengthened Linux administration and penetration testing skills.  
 
----
+## 🛡️ Cybersecurity Projects
 
-### 🔹 [Network Traffic Analysis with Wireshark](https://github.com/seyiabello/wireshark-traffic-analysis)  
-Captured and analyzed live traffic to detect anomalies.  
-- Applied filters (`http`, `ip.addr`) and reconstructed streams.  
-- Improved packet analysis accuracy by ~40%.  
+Here are my featured hands-on projects. Each repo includes documentation, configuration details, and screenshots of the process.  
 
----
+- 🔒 [**Ubuntu Firewall Configuration with UFW**](https://github.com/seyiabello/ubuntu-firewall-ufw)  
+  Configured UFW firewall rules on Ubuntu to enforce least-privilege security, blocked Telnet, allowed only essential services, and validated rules with **Nmap**.  
 
-### 🔹 [Ubuntu Firewall Configuration with UFW](https://github.com/seyiabello/ubuntu-firewall-ufw)  
-Configured and tested firewall rules on Ubuntu.  
-- Applied least-privilege principle (deny all, allow essential).  
-- Achieved 100% compliance with security requirements.  
+- 🛡️ [**Cybersecurity Home Lab – Penetration Testing & Defense**](https://github.com/seyiabello/cybersecurity-home-lab)  
+  Built a VirtualBox lab with Ubuntu (target) & Kali (attacker). Ran **Nmap**, brute-forced SSH with **Hydra**, and captured packets with **Wireshark** to simulate attacker vs. defender workflows.  
 
----
+- 🌐 [**Network Traffic Analysis with Wireshark**](https://github.com/seyiabello/network-traffic-analysis-wireshark)  
+  Captured and analyzed 500+ packets across protocols, applied Wireshark filters, and reconstructed traffic streams to identify SSDP broadcasts and HTTP payloads.  
+
+  ---
 
 ## 🛠 Skills & Tools  
 - **Programming:** Python, C#, SQL, HTML/CSS  
