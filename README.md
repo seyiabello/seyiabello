@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Oluwaseyi Bello  
 
-🎓 MSc Human-Centred Artificial Intelligence at the University of Exeter.
+🎓 MSc Human-Centred Artificial Intelligence with Proficiency in Data Science at the University of Exeter.
 🎓 BSc Economics Graduate at the University of Manchester.
 🔐 Passionate about **cybersecurity, AI, and secure system design**, with hands-on projects in penetration testing, network analysis, and firewall configuration.  
 💻 Combining a strong foundation in **AI, economics, and security** to solve complex, real-world problems.  
