@@ -18,11 +18,16 @@ This project integrates cybersecurity principles into AI system design, ensuring
 </p>
 
 <p align="center">
-<a href="https://secure-chatbot-demo.onrender.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render"></a>
-<a href="https://github.com/seyiabello/secure-chatbot-demo"><img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://stats.uptimerobot.com/qS86R4Fjmh"><img alt="Uptime Status" src="https://img.shields.io/uptimerobot/status/m797010237-bdbe3a2cd6b7ec5f0dc0c3be?style=for-the-badge&label=Chatbot%20Status"></a>
+  <a href="https://secure-chatbot-demo.onrender.com">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render">
+  </a>
+  <a href="https://github.com/seyiabello/secure-chatbot-demo">
+    <img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://stats.uptimerobot.com/qS86R4Fjmh">
+    <img alt="Uptime Status" src="https://img.shields.io/uptimerobot/status/m801678817-98769a2b06c5cc6c05332a?style=for-the-badge&label=Chatbot%20Status">
+  </a>
 </p>
-
 
 ---
 
@@ -42,6 +47,8 @@ This project integrates cybersecurity principles into AI system design, ensuring
 ---
 
 > 💡 Built as part of my MSc *Human-Centred Artificial Intelligence* at the University of Exeter, focusing on AI safety and secure system design.
+
+---
 
 ## 🛡️ Cybersecurity Projects
 
@@ -88,8 +95,13 @@ Captured and analyzed 500+ packets across multiple protocols, applied Wireshark 
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oluwaseyi-bello-2653a2215/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/seyiabello"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/oluwaseyi-bello-2653a2215/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/seyiabello">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
+
 
 
