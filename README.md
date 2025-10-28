@@ -18,13 +18,11 @@ This project integrates cybersecurity principles into AI system design, ensuring
 </p>
 
 <p align="center">
-  <a href="https://secure-chatbot-demo.onrender.com" target="_blank">
-    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render">
-  </a>
-  <a href="https://github.com/seyiabello/secure-chatbot-demo" target="_blank">
-    <img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github">
-  </a>
+<a href="https://secure-chatbot-demo.onrender.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render"></a>
+<a href="https://github.com/seyiabello/secure-chatbot-demo"><img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://stats.uptimerobot.com/qS86R4Fjmh"><img alt="Uptime Status" src="https://img.shields.io/uptimerobot/status/m797010237-bdbe3a2cd6b7ec5f0dc0c3be?style=for-the-badge&label=Chatbot%20Status"></a>
 </p>
+
 
 ---
 
