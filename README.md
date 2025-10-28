@@ -14,21 +14,36 @@
 
 <p>
 A <strong>FastAPI-based AI chatbot</strong> demonstrating <em>prompt injection defense</em>, <em>output sanitization</em>, and <em>AI safety guardrails</em>.  
+This project integrates cybersecurity principles into AI system design, ensuring model reliability and data protection.
 </p>
 
 <p align="center">
-<a href="https://secure-chatbot-demo.onrender.com"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render"></a>
-<a href="https://github.com/seyiabello/secure-chatbot-demo"><img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://secure-chatbot-demo.onrender.com" target="_blank">
+    <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render">
+  </a>
+  <a href="https://github.com/seyiabello/secure-chatbot-demo" target="_blank">
+    <img alt="View Code" src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-**Highlights:**
-- Built with **Python**, **FastAPI**, **Docker**, **Pytest**, and **Render Cloud**
-- Integrated with **OpenAI API** (with fallback and mock offline mode)
-- Includes **THREAT_MODEL.md**, automated tests, and a **minimal web UI**
+---
 
-🧠 *Explores AI security, model resilience, and secure deployment practices.*
+### 🧩 **Highlights**
+- Built with **Python**, **FastAPI**, **Docker**, **Pytest**, and **Render Cloud**
+- Integrated with **OpenAI API** (with retry logic, fallback, and mock offline mode)
+- Implements **guardrails** for safe LLM interaction and **audit logging**
+- Includes a **THREAT_MODEL.md**, automated tests, and a **minimal web UI**
+
+🧠 *Explores AI security, model resilience, and responsible AI deployment practices.*
 
 ---
+
+### ⚙️ **Tech Stack**
+`Python` · `FastAPI` · `Docker` · `OpenAI API` · `Pydantic` · `Pytest` · `Render`
+
+---
+
+> 💡 Built as part of my MSc *Human-Centred Artificial Intelligence* at the University of Exeter, focusing on AI safety and secure system design.
 
 ## 🛡️ Cybersecurity Projects
 
