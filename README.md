@@ -83,7 +83,7 @@ Captured & analysed 500+ packets, used filters, reconstructed streams, and ident
 
 | Category | Tools |
 |-----------|--------|
-| **DevOps & Cloud** | Azure (AKS, ACR, VNets, Key Vault), Terraform, Docker, Kubernetes, GitHub Actions |
+| **DevOps & Cloud** | Azure (AKS, ACR, VNets, Key Vault), Terraform, Docker, Kubernetes, GitHub Actions, Linux |
 | **Programming** | Python, C#, SQL |
 | **Cybersecurity** | Wireshark, Nmap, Hydra, UFW |
 | **AI & Data** | FastAPI, OpenAI API, Pandas, Jupyter |
