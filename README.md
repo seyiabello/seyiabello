@@ -12,7 +12,21 @@
 
 # 🚀 Featured DevOps & Cloud Projects
 
-## 🛰️ Azure Fundamentals Capstone Project: Building a Secure Multi-VNet Environment
+## 🐧 [Linux Essentials – Git Bash Challenge (Nimbus Compute)](https://github.com/seyiabello/linux-essentials-gitbash-challenge)
+A hands-on 20-step Linux challenge covering essential DevOps command-line skills.
+
+**What I practiced**
+- Linux navigation (pwd, cd)  
+- File management  
+- Permissions & hidden files  
+- Symbolic & hard links  
+- Archiving with tar  
+- Searching with find + grep  
+- Exporting reproducible command history  
+
+---
+
+## 🛰️ [Azure Fundamentals Capstone Project: Building a Secure Multi-VNet Environment](https://github.com/seyiabello/Nimbus-infra)
 A complete **hub-and-spoke Azure environment** built with security and DevOps practices front-to-back.
 
 **What I implemented**
@@ -24,9 +38,6 @@ A complete **hub-and-spoke Azure environment** built with security and DevOps pr
 - Secure blob upload workflow  
 - Documented architecture diagram  
 - DevOps-ready project structure  
-
-**Repo:** https://github.com/seyiabello/Nimbus-infra  
-*(Or your final repo once uploaded)*
 
 ---
 
@@ -109,3 +120,4 @@ Captured & analysed 500+ packets, used filters, reconstructed streams, and ident
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
