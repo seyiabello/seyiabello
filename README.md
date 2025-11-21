@@ -12,7 +12,7 @@
 
 # 🚀 Featured DevOps & Cloud Projects
 
-## 🛰️ Nimbus Infrastructure — Azure Cloud Security & DevOps Project
+## 🛰️ Azure Fundamentals Capstone Project: Building a Secure Multi-VNet Environment
 A complete **hub-and-spoke Azure environment** built with security and DevOps practices front-to-back.
 
 **What I implemented**
