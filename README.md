@@ -45,7 +45,8 @@ A hands-on 20-step Linux challenge covering essential DevOps command-line skills
 
 ---
 
-## 🛰️ [Azure Fundamentals Capstone Project: Building a Secure Multi-VNet Environment](https://github.com/seyiabello/Nimbus-infra)
+## 🛰️ [Azure Fundamentals Capstone Project: Building a Secure Multi-VNet Environment](https://github.com/seyiabello/azure-fundamentals-capstone)
+
 A complete **hub-and-spoke Azure environment** built with security and DevOps practices front-to-back.
 
 **What I implemented**
