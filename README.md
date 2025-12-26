@@ -2,201 +2,170 @@
 <h1 align="center">👋 Hi, I’m Oluwaseyi Bello</h1>
 
 <p align="center">
-🎓 MSc Human-Centred Artificial Intelligence (with Proficiency in Data Science) — <strong>University of Exeter</strong><br>
-🎓 BSc Economics Graduate — <strong>University of Manchester</strong><br>
-☁️ DevOps Engineer focused on <strong>Cloud Automation</strong>, <strong>Infrastructure as Code</strong>, <strong>Cybersecurity</strong>, and <strong>Secure System Design</strong><br>
-💻 Bridging <strong>AI</strong>, <strong>DevOps</strong>, and <strong>Security</strong> to build scalable, automated, and resilient systems.
+🎓 MSc Human-Centred Artificial Intelligence (Data Science) — <strong>University of Exeter</strong><br>
+🎓 BSc Economics — <strong>University of Manchester</strong><br>
+☁️ <strong>DevOps / Cloud Engineer</strong> specialising in <strong>Infrastructure as Code</strong>, <strong>CI/CD</strong>, <strong>Cloud Security</strong>, and <strong>Platform Automation</strong><br>
+⚙️ Building scalable, secure, and observable systems on cloud-native infrastructure.
 </p>
 
 ---
 
-# 🚀 Featured DevOps & Cloud Projects
+# 🚀 Core DevOps & Cloud Projects
 
-## 🌩️ Azure Terraform Infrastructure – IaC Deployment (Nimbus Compute)
+## 🌩️ Azure Terraform Infrastructure (IaC)
 🔗 https://github.com/seyiabello/azure-terraform-infra  
 
-A production-style **Azure cloud environment** built entirely using **Terraform**.
+**Production-style Azure environment built end-to-end using Terraform.**
 
-**Key highlights**
-- AKS, ACR, Key Vault, Storage Accounts
-- Modular Terraform (variables, locals, outputs)
+**Tech:** Azure · Terraform · AKS · ACR · Key Vault · RBAC  
+
+- Modular Terraform architecture
 - Remote state backend (Azure Blob Storage)
-- RBAC (AcrPull, Key Vault Secrets Officer)
+- AKS cluster with secure image pulls (AcrPull)
+- Managed identities & Key Vault integration
 - Full IaC lifecycle: validate → plan → apply
 
 ---
 
-## 🛰️ Azure Fundamentals Capstone – Secure Multi-VNet Architecture
+## 🛰️ Secure Azure Network Architecture (Hub–Spoke)
 🔗 https://github.com/seyiabello/azure-fundamentals-capstone  
 
-A complete **hub-and-spoke Azure network** designed with security-first principles.
+**Security-first Azure network design following enterprise patterns.**
 
-**Implemented**
-- Hub–spoke VNets
-- Azure Bastion (no public IPs)
-- NSGs (least privilege)
-- Private Endpoint–only Storage Account
-- Managed Identity + Key Vault
-- Architecture diagram & DevOps-ready structure
+**Tech:** Azure VNets · NSGs · Bastion · Private Endpoints  
+
+- Hub–spoke VNet topology
+- No public IP SSH access (Azure Bastion)
+- Least-privilege NSG rules
+- Private Endpoint–only storage
+- Architecture diagram & documentation
 
 ---
 
-## 🏗️ End-to-End DevOps Project – Nimbus Infrastructure
+## 🏗️ End-to-End DevOps Infrastructure Project
 🔗 https://github.com/seyiabello/End-to-end-devops-project-nimbus-infra  
 
-An end-to-end DevOps workflow simulating a real production infrastructure.
+**Simulated production DevOps workflow from infrastructure to deployment.**
 
-**Covers**
 - Infrastructure provisioning
-- CI/CD concepts
 - Deployment workflows
-- Cloud-native project structuring
+- DevOps-ready repo structure
 
 ---
 
 # ⚙️ CI/CD, Containers & Kubernetes
 
-## 🔁 CI/CD Pipeline – Automating Build & Deployment
+## 🔁 CI/CD Pipeline – Automated Build & Deployment
 🔗 https://github.com/seyiabello/CI-CD-Pipeline---Automating-Build-and-Deployment  
 
-Designed and implemented a CI/CD pipeline to automate application build and deployment.
+**Automated pipeline implementing modern CI/CD practices.**
 
-**Focus**
-- Pipeline stages
-- Automation principles
-- DevOps best practices
+- Build, test, and deploy stages
+- Pipeline automation concepts
+- DevOps workflow design
 
 ---
 
-## ☸️ Deploying Applications to a Kubernetes Cluster
+## ☸️ Kubernetes Deployment Project
 🔗 https://github.com/seyiabello/Deploying-to-Kubernetes-Cluster  
 
-Hands-on Kubernetes deployment covering container orchestration fundamentals.
+**Hands-on Kubernetes deployment and orchestration fundamentals.**
 
 ---
 
-## 🐳 Docker – Containerization for DevOps Engineers
+## 🐳 Docker Containerisation for DevOps
 🔗 https://github.com/seyiabello/Docker---Containerization-for-DevOps-Engineers  
 
-Practical Docker workflows covering image creation, containers, and DevOps usage.
+**Containerised applications using Docker images and workflows.**
 
 ---
 
-## 📈 Monitoring with Prometheus & Grafana
+## 📈 Monitoring & Observability (Prometheus + Grafana)
 🔗 https://github.com/seyiabello/Monitoring-with-Prometheus-Grafana  
 
-Implemented monitoring and observability using **Prometheus metrics** and **Grafana dashboards**.
+**Metrics collection and dashboarding for cloud workloads.**
 
 ---
 
-# 🐧 Linux & Version Control Foundations
+# 🛡️ DevSecOps & Platform Security
 
-## 🐧 Linux Essentials – Git Bash Challenge
-🔗 https://github.com/seyiabello/linux-essentials-gitbash-challenge  
-
-A 20-step Linux command-line challenge covering:
-- Navigation & file management
-- Permissions
-- Links
-- Archiving (tar)
-- find + grep
-- Reproducible command history
-
----
-
-## 🔧 Git & GitHub DevOps Project
-🔗 https://github.com/seyiabello/git-github-project-DevOps-  
-
-Hands-on Git/GitHub workflows used in DevOps environments.
-
----
-
-## 📦 GitHub Examples (Fork)
-🔗 https://github.com/seyiabello/Github-Examples  
-
-Programmatic GitHub usage examples (forked learning repo).
-
----
-
-# 🛡️ Cybersecurity Projects
-
-## 🔒 Ubuntu Firewall Hardening (UFW)
+## 🔒 Linux Firewall Hardening (UFW)
 🔗 https://github.com/seyiabello/ubuntu-firewall-ufw  
 
-Configured UFW with least-privilege rules and verified security using Nmap.
+- Least-privilege firewall rules
+- Service hardening
+- Verification using Nmap
 
 ---
 
 ## 🧪 Penetration Testing Home Lab
 🔗 https://github.com/seyiabello/cybersecurity-home-lab  
 
-- Kali attacker + Ubuntu target  
-- SSH brute-force simulation (Hydra)  
-- Network scanning (Nmap)  
-- Packet analysis (Wireshark)
+- Kali attacker / Ubuntu target
+- SSH brute-force simulation (Hydra)
+- Network scanning & traffic analysis
 
 ---
 
-## 🌐 Network Traffic Analysis with Wireshark
+## 🌐 Network Traffic Analysis (Wireshark)
 🔗 https://github.com/seyiabello/network-traffic-analysis-wireshark  
 
-Captured and analysed 500+ packets, reconstructed streams, and identified SSDP & HTTP payloads.
+- Packet capture & filtering
+- Stream reconstruction
+- Protocol analysis
 
 ---
 
-# 🤖 AI, Data Science & Human-Centred AI
+# 🐧 Linux, Git & DevOps Foundations
 
-## 🚀 Secure Chatbot Proof of Concept (AI Security)
+## 🐧 Linux Essentials – Git Bash Challenge
+🔗 https://github.com/seyiabello/linux-essentials-gitbash-challenge  
+
+**20-step Linux CLI challenge covering real DevOps tasks.**
+
+---
+
+## 🔧 Git & GitHub for DevOps
+🔗 https://github.com/seyiabello/git-github-project-DevOps-  
+
+**Version control workflows used in DevOps teams.**
+
+---
+
+# 🤖 Supporting AI & Data Engineering Projects
+
+> AI used to **support platforms and automation**, not replace DevOps focus.
+
+## 🚀 Secure Chatbot (FastAPI + Docker)
 🔗 https://github.com/seyiabello/secure-chatbot-demo  
 
-FastAPI-based chatbot demonstrating:
-- Secure prompt handling
-- Output sanitisation
-- Guardrails & audit logging
+- FastAPI backend
 - Dockerised deployment
-- Pytest coverage
-- Threat modelling (THREAT_MODEL.md)
+- Secure input/output handling
+- Test-driven development (Pytest)
 
 ---
 
-## 🧠 Human-Centred AI – Remote Primary Care Triage System
-🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
-
-Designed a human-centred AI system focused on safety, ethics, and real-world healthcare deployment.
-
----
-
-## 📊 Data Science Project – AI Tools & Student Performance (Exeter)
+## 📊 Data Science – AI Tools & Student Performance
 🔗 https://github.com/seyiabello/Data-Science-Project-Does-Using-ChatGPT-or-AI-Tools-Improve-Student-Performance-at-Exeter-  
 
-End-to-end data science project including:
-- Survey design
-- Simulated data (Python)
-- EDA & visualisation
-- Ethics & data governance (UKDS-aligned)
+- Data simulation & EDA (Python)
+- Ethics & governance focus
 
 ---
 
-## 📝 Amazon Review Sentiment Analysis
-🔗 https://github.com/seyiabello/Amazon-Review-Sentiment-Analysis  
+# 🧰 DevOps Skill Stack
 
-Natural language processing project analysing sentiment in Amazon product reviews.
-
----
-
-
-
-# 🧰 Skills & Tools
-
-| Category | Tools |
-|-------|------|
-| **Cloud & DevOps** | Azure, Terraform, Docker, Kubernetes, GitHub Actions, Linux |
+| Area | Tools |
+|-----|------|
+| **Cloud** | Azure (AKS, VNets, Key Vault, Storage) |
+| **IaC** | Terraform |
+| **Containers** | Docker, Kubernetes |
+| **CI/CD** | GitHub Actions |
 | **Monitoring** | Prometheus, Grafana |
-| **Programming** | Python, C#, SQL |
-| **Cybersecurity** | Wireshark, Nmap, Hydra, UFW |
-| **AI & Data** | FastAPI, OpenAI API, Pandas, Jupyter |
-| **Infrastructure** | Bash, IaC, Secure System Design |
-| **Languages** | English 🇬🇧 (Fluent), Yoruba 🇳🇬 (Conversational) |
+| **Security** | UFW, Nmap, Wireshark, Hydra |
+| **Scripting** | Python, Bash |
+| **OS** | Linux |
 
 ---
 
@@ -204,8 +173,7 @@ Natural language processing project analysing sentiment in Amazon product review
 
 - CompTIA Security+  
 - IBM Cybersecurity Fundamentals  
-- NCFE Level 3 Certificate in Cyber Security Practices  
-- Forage Cybersecurity Virtual Internships  
+- NCFE Level 3 Cyber Security Practices  
 
 ---
 
@@ -218,14 +186,14 @@ Natural language processing project analysing sentiment in Amazon product review
 
 ---
 
-# 🌍 Connect with Me
+# 🌍 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwaseyi-bello-2653a2215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/seyiabello">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
