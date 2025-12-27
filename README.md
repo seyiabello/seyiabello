@@ -154,6 +154,33 @@
 
 ---
 
+## 🧠 Human-Centred AI Triage System – Remote Primary Care & Early Warning
+🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
+
+**Human-centred, clinician-in-the-loop AI system** designed to support remote health assessment and early-warning triage.
+
+- Multimodal data ingestion and fusion  
+- Uncertainty-aware risk prediction (GBDT / temporal models + Bayesian updating)  
+- Sequential decision-making (POMDP-inspired)  
+- Patient preference modelling (MCDM / TOPSIS)  
+- Explainable AI outputs with clinician override and safe fallback paths  
+- Strong focus on governance, safety, and responsible deployment
+
+---
+
+## 📊 Amazon Review Sentiment Analysis (Applied Machine Learning)
+🔗 https://github.com/seyiabello/Amazon-Review-Sentiment-Analysis  
+
+**End-to-end NLP and supervised ML project** analysing sentiment in large-scale Amazon review data.
+
+- Dataset: 20,000 balanced reviews (positive / negative)  
+- Feature engineering: TF-IDF (uni + bi-grams), LDA topic modelling, PCA  
+- Models: Logistic Regression, Linear SVM, MLP  
+- Evaluation: Accuracy, F1 score, ROC curves, confusion matrices  
+- Best result: Logistic Regression on sparse TF-IDF features (Accuracy 0.832)
+
+---
+
 # 🧰 DevOps Skill Stack
 
 | Area | Tools |
