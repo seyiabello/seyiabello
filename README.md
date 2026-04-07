@@ -20,10 +20,6 @@
 
 ---
 
-<!-- ======================= -->
-<!-- 🧠 FEATURED AI PROJECTS -->
-<!-- ======================= -->
-
 # 🧠 Featured AI Systems
 
 ---
@@ -31,9 +27,11 @@
 ## 🧠 Digital Self Memory & Personalisation Engine  
 🔗 https://github.com/seyiabello/Digital-Self-Memory-Personalisation-Engine  
 
-<p>
-<img src="./screenshots/architecture.png" width="100%"/>
+<p align="center">
+  <img src="./screenshots/architecturedigital.png" width="100%"/>
 </p>
+
+<p align="center"><i>Architecture: Layered memory + Digital Self orchestration</i></p>
 
 **Stateful AI system enabling persistent, privacy-aware personalisation.**
 
@@ -53,10 +51,6 @@
 ## 🧠 Human-Centred AI Triage System  
 🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
 
-<p>
-<img src="./screenshots/triage-architecture.png" width="100%"/>
-</p>
-
 **Clinician-in-the-loop AI system for safe and explainable healthcare decision support.**
 
 - Multimodal data fusion  
@@ -71,10 +65,6 @@
 
 ## 🤖 Secure AI Chatbot (Production Backend)  
 🔗 https://github.com/seyiabello/secure-chatbot-demo  
-
-<p>
-<img src="./screenshots/chatbot-architecture.png" width="100%"/>
-</p>
 
 **Production-style AI service demonstrating deployment, security, and backend engineering.**
 
@@ -102,40 +92,63 @@
 
 ---
 
-<!-- ======================= -->
-<!-- ⚙️ MLOPS / INFRA -->
-<!-- ======================= -->
-
 # ⚙️ AI Infrastructure & MLOps
-
----
-
-## 🌩️ Azure Terraform Infrastructure  
-🔗 https://github.com/seyiabello/azure-terraform-infra  
-
-<p>
-<img src="./screenshots/azure-architecture.png" width="100%"/>
-</p>
-
-- Modular Terraform IaC  
-- AKS + ACR integration  
-- Managed identities + Key Vault  
-- Secure cloud architecture  
 
 ---
 
 ## 🏗️ Nimbus DevOps Platform  
 🔗 https://github.com/seyiabello/End-to-end-devops-project-nimbus-infra  
 
-<p>
-<img src="./screenshots/nimbus-architecture.png" width="100%"/>
+<p align="center">
+  <img src="./screenshots/endtoendupdated.PNG" width="100%"/>
 </p>
+
+<p align="center"><i>End-to-end cloud DevOps pipeline with CI/CD, AKS, and monitoring</i></p>
 
 - CI/CD (GitHub Actions)  
 - Docker → Kubernetes deployment  
 - Prometheus + Grafana monitoring  
 
 👉 Foundation for **production AI systems**
+
+---
+
+## 🔭 Monitoring with Prometheus & Grafana  
+🔗 https://github.com/seyiabello/Monitoring-with-Prometheus-Grafana  
+
+**Production-style Kubernetes observability stack deployed on AKS.**
+
+- Prometheus metric scraping for cluster workloads  
+- Grafana dashboards for CPU, memory, networking, and storage  
+- Helm-based deployment (kube-prometheus-stack)  
+- Bash automation for reproducible setup  
+
+👉 Demonstrates **observability engineering for cloud-native systems**
+
+---
+
+## 🌩️ Azure Network Architecture (Hub–Spoke)  
+🔗 https://github.com/seyiabello/azure-fundamentals-capstone  
+
+<p align="center">
+  <img src="./screenshots/Azure Fundamentals Capstone Project Seyi.PNG" width="100%"/>
+</p>
+
+<p align="center"><i>Secure hub–spoke architecture with Bastion, Key Vault, and private networking</i></p>
+
+- Hub–spoke VNet design  
+- Private endpoints + no public SSH  
+- Key Vault + managed identity integration  
+
+---
+
+## 🌩️ Azure Terraform Infrastructure  
+🔗 https://github.com/seyiabello/azure-terraform-infra  
+
+- Modular Terraform IaC  
+- AKS + ACR integration  
+- Managed identities + Key Vault  
+- Remote state backend  
 
 ---
 
@@ -155,11 +168,25 @@
 
 ---
 
-<!-- ======================= -->
-<!-- 🛡️ SECURITY -->
-<!-- ======================= -->
+# 🧪 Research & Data Science
 
-# 🛡️ Security & Responsible AI
+---
+
+## 📘 AI Tools & Student Performance (Data Science Project)  
+🔗 https://github.com/seyiabello/Data-Science-Project-Does-Using-ChatGPT-or-AI-Tools-Improve-Student-Performance  
+
+**Research-driven data science project exploring AI usage and student outcomes.**
+
+- Python data simulation (NumPy, pandas)  
+- Exploratory data analysis and visualisation  
+- Survey design and research workflow  
+- Ethics, privacy, and FAIR data principles  
+
+👉 Demonstrates **data science, research design, and responsible AI awareness**
+
+---
+
+# 🛡️ Security & Systems Engineering
 
 ---
 
@@ -188,9 +215,14 @@
 
 ---
 
-<!-- ======================= -->
-<!-- 🧰 SKILLS -->
-<!-- ======================= -->
+## 🖥️ Enterprise Helpdesk Lab  
+🔗 https://github.com/seyiabello/enterprise-helpdesk-lab  
+
+- Active Directory (Users, Groups, GPOs)  
+- Windows Server environment  
+- IT support workflow simulation  
+
+---
 
 # 🧰 Tech Stack
 
@@ -213,10 +245,6 @@
 
 ---
 
-<!-- ======================= -->
-<!-- 🎯 FOCUS -->
-<!-- ======================= -->
-
 # 📌 Current Focus
 
 - 🧠 Stateful AI systems with memory and personalisation  
@@ -226,10 +254,6 @@
 
 ---
 
-<!-- ======================= -->
-<!-- 📊 STATS -->
-<!-- ======================= -->
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -238,10 +262,6 @@
 </p>
 
 ---
-
-<!-- ======================= -->
-<!-- 🌍 CONNECT -->
-<!-- ======================= -->
 
 # 🌍 Connect
 
