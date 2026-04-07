@@ -1,194 +1,174 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I’m Oluwaseyi Bello</h1>
+<h1 align="center">🤖 Oluwaseyi Bello — AI Engineer</h1>
 
 <p align="center">
 🎓 MSc Human-Centred Artificial Intelligence (Data Science) — <strong>University of Exeter</strong><br>
 🎓 BSc Economics — <strong>University of Manchester</strong><br>
-☁️ <strong>DevOps / Cloud Engineer</strong> specialising in <strong>Infrastructure as Code</strong>, <strong>CI/CD</strong>, <strong>Cloud Security</strong>, and <strong>Platform Automation</strong><br>
-⚙️ Building scalable, secure, and observable systems on cloud-native infrastructure.
+⚙️ Building <strong>intelligent systems</strong>, <strong>AI infrastructure</strong>, and <strong>human-centred machine learning applications</strong><br>
+☁️ Strong foundation in <strong>MLOps, cloud, and secure system design</strong>
 </p>
 
 ---
 
-# 🚀 Core DevOps & Cloud Projects
+# 🧠 Featured AI Engineering Projects
+
+## 🧠 Digital Self Memory & Personalisation Engine
+🔗 https://github.com/seyiabello/Digital-Self-Memory-Personalisation-Engine  
+
+**Stateful AI system enabling context-aware personalisation with privacy-first memory design.**
+
+### 🔑 Highlights
+- Layered memory architecture:
+  - Session Memory  
+  - Short-Term Memory (STM)  
+  - Long-Term Vector Memory (Chroma)  
+- Context retrieval via **embedding similarity (top-k retrieval)**  
+- Structured **Digital Self representation** (preferences, constraints, state)  
+- Explicit **privacy & forgetting controls**  
+- Transparent retrieval logging (explainable AI behaviour)  
+
+### ⚙️ Tech
+Python · ChromaDB · Embeddings · CLI system design  
+
+### 🧠 Why it matters
+- Solves a core limitation of modern AI systems: **lack of memory & personalisation**  
+- Demonstrates **AI system design thinking (not just model usage)**  
+
+---
+
+## 🧠 Human-Centred AI Triage System
+🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
+
+**Clinician-in-the-loop AI system for remote healthcare decision support.**
+
+### 🔑 Highlights
+- Multimodal data fusion  
+- Uncertainty-aware prediction (GBDT + Bayesian updates)  
+- Sequential decision-making (POMDP-inspired)  
+- Explainable outputs with human override  
+- Safety-first system design  
+
+👉 Focus: **trust, safety, and real-world AI deployment**
+
+---
+
+## 🤖 Secure AI Chatbot (Production-Ready Backend)
+🔗 https://github.com/seyiabello/secure-chatbot-demo  
+
+**End-to-end AI service demonstrating secure deployment, API design, and containerised inference.**
+
+### 🔑 Highlights
+- FastAPI-based inference service  
+- Dockerised for reproducible deployment  
+- Input/output validation and security controls  
+- Pytest-based testing for reliability  
+- Designed for safe AI interaction (guardrails-ready)  
+
+### ⚙️ Tech
+Python · FastAPI · Docker · Pytest  
+
+### 🧠 Why it matters
+- Demonstrates ability to **deploy AI systems as production services**  
+- Bridges gap between **ML models and real-world applications**  
+
+---
+
+## 📊 Amazon Review Sentiment Analysis (ML System)
+🔗 https://github.com/seyiabello/Amazon-Review-Sentiment-Analysis  
+
+**End-to-end NLP pipeline with feature engineering + model evaluation.**
+
+### 🔑 Highlights
+- TF-IDF (uni + bi-grams), LDA, PCA  
+- Models: Logistic Regression, SVM, MLP  
+- Best Accuracy: **0.832**  
+- Evaluation: F1 score, ROC curves, confusion matrix  
+
+👉 Demonstrates **applied machine learning + experimentation workflow**
+
+---
+
+# ⚙️ AI Infrastructure & MLOps Projects
 
 ## 🌩️ Azure Terraform Infrastructure (IaC)
 🔗 https://github.com/seyiabello/azure-terraform-infra  
 
-**Production-style Azure environment built end-to-end using Terraform.**
+**Production-style cloud infrastructure for scalable systems.**
 
-**Tech:** Azure · Terraform · AKS · ACR · Key Vault · RBAC  
-
-- Modular Terraform architecture
-- Remote state backend (Azure Blob Storage)
-- AKS cluster with secure image pulls (AcrPull)
-- Managed identities & Key Vault integration
-- Full IaC lifecycle: validate → plan → apply
+- Modular Terraform architecture  
+- Remote state backend (Azure Blob Storage)  
+- AKS cluster + ACR integration  
+- Managed identities + Key Vault  
+- Secure image pipelines  
 
 ---
 
-## 🛰️ Secure Azure Network Architecture (Hub–Spoke)
-🔗 https://github.com/seyiabello/azure-fundamentals-capstone  
-
-**Security-first Azure network design following enterprise patterns.**
-
-**Tech:** Azure VNets · NSGs · Bastion · Private Endpoints  
-
-- Hub–spoke VNet topology
-- No public IP SSH access (Azure Bastion)
-- Least-privilege NSG rules
-- Private Endpoint–only storage
-- Architecture diagram & documentation
-
----
-
-## 🏗️ End-to-End DevOps Infrastructure Project
+## 🏗️ End-to-End DevOps / Platform Engineering (Nimbus)
 🔗 https://github.com/seyiabello/End-to-end-devops-project-nimbus-infra  
 
-**Simulated production DevOps workflow from infrastructure to deployment.**
+**Full cloud-native platform pipeline: build → deploy → monitor**
 
-- Infrastructure provisioning
-- Deployment workflows
-- DevOps-ready repo structure
+- Docker → AKS deployment  
+- GitHub Actions CI/CD  
+- Prometheus + Grafana observability  
+
+👉 Foundation for **production AI system deployment**
 
 ---
 
-# ⚙️ CI/CD, Containers & Kubernetes
-
-## 🔁 CI/CD Pipeline – Automated Build & Deployment
+## 🔁 CI/CD Pipeline Automation
 🔗 https://github.com/seyiabello/CI-CD-Pipeline---Automating-Build-and-Deployment  
 
-**Automated pipeline implementing modern CI/CD practices.**
-
-- Build, test, and deploy stages
-- Pipeline automation concepts
-- DevOps workflow design
+- Automated build, test, deploy workflows  
+- Reproducible engineering pipelines  
 
 ---
 
-## ☸️ Kubernetes Deployment Project
+## ☸️ Kubernetes Deployment
 🔗 https://github.com/seyiabello/Deploying-to-Kubernetes-Cluster  
 
-**Hands-on Kubernetes deployment and orchestration fundamentals.**
+- Container orchestration fundamentals  
+- Scalable service deployment  
 
 ---
 
-## 🐳 Docker Containerisation for DevOps
-🔗 https://github.com/seyiabello/Docker---Containerization-for-DevOps-Engineers  
-
-**Containerised applications using Docker images and workflows.**
-
----
-
-## 📈 Monitoring & Observability (Prometheus + Grafana)
-🔗 https://github.com/seyiabello/Monitoring-with-Prometheus-Grafana  
-
-**Metrics collection and dashboarding for cloud workloads.**
-
----
-
-# 🛡️ DevSecOps & Platform Security
+# 🛡️ Security & Responsible AI Foundations
 
 ## 🔒 Linux Firewall Hardening (UFW)
 🔗 https://github.com/seyiabello/ubuntu-firewall-ufw  
 
-- Least-privilege firewall rules
-- Service hardening
-- Verification using Nmap
+- Least-privilege firewall rules  
+- Network validation with Nmap  
 
 ---
 
-## 🧪 Penetration Testing Home Lab
+## 🧪 Cybersecurity Home Lab
 🔗 https://github.com/seyiabello/cybersecurity-home-lab  
 
-- Kali attacker / Ubuntu target
-- SSH brute-force simulation (Hydra)
-- Network scanning & traffic analysis
+- Kali attacker / Ubuntu target  
+- SSH brute-force simulation (Hydra)  
+- Network scanning & traffic analysis  
 
 ---
 
-## 🌐 Network Traffic Analysis (Wireshark)
+## 🌐 Network Analysis (Wireshark)
 🔗 https://github.com/seyiabello/network-traffic-analysis-wireshark  
 
-- Packet capture & filtering
-- Stream reconstruction
-- Protocol analysis
+- Packet capture & filtering  
+- Stream reconstruction  
+- Protocol analysis  
 
 ---
 
-# 🐧 Linux, Git & DevOps Foundations
-
-## 🐧 Linux Essentials – Git Bash Challenge
-🔗 https://github.com/seyiabello/linux-essentials-gitbash-challenge  
-
-**20-step Linux CLI challenge covering real DevOps tasks.**
-
----
-
-## 🔧 Git & GitHub for DevOps
-🔗 https://github.com/seyiabello/git-github-project-DevOps-  
-
-**Version control workflows used in DevOps teams.**
-
----
-
-# 🤖 Supporting AI & Data Engineering Projects
-
-> AI used to **support platforms and automation**, not replace DevOps focus.
-
-## 🚀 Secure Chatbot (FastAPI + Docker)
-🔗 https://github.com/seyiabello/secure-chatbot-demo  
-
-- FastAPI backend
-- Dockerised deployment
-- Secure input/output handling
-- Test-driven development (Pytest)
-
----
-
-## 📊 Data Science – AI Tools & Student Performance
-🔗 https://github.com/seyiabello/Data-Science-Project-Does-Using-ChatGPT-or-AI-Tools-Improve-Student-Performance-at-Exeter-  
-
-- Data simulation & EDA (Python)
-- Ethics & governance focus
-
----
-
-## 🧠 Human-Centred AI Triage System – Remote Primary Care & Early Warning
-🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
-
-**Human-centred, clinician-in-the-loop AI system** designed to support remote health assessment and early-warning triage.
-
-- Multimodal data ingestion and fusion  
-- Uncertainty-aware risk prediction (GBDT / temporal models + Bayesian updating)  
-- Sequential decision-making (POMDP-inspired)  
-- Patient preference modelling (MCDM / TOPSIS)  
-- Explainable AI outputs with clinician override and safe fallback paths  
-- Strong focus on governance, safety, and responsible deployment
-
----
-
-## 📊 Amazon Review Sentiment Analysis (Applied Machine Learning)
-🔗 https://github.com/seyiabello/Amazon-Review-Sentiment-Analysis  
-
-**End-to-end NLP and supervised ML project** analysing sentiment in large-scale Amazon review data.
-
-- Dataset: 20,000 balanced reviews (positive / negative)  
-- Feature engineering: TF-IDF (uni + bi-grams), LDA topic modelling, PCA  
-- Models: Logistic Regression, Linear SVM, MLP  
-- Evaluation: Accuracy, F1 score, ROC curves, confusion matrices  
-- Best result: Logistic Regression on sparse TF-IDF features (Accuracy 0.832)
-
----
-
-# 🧰 DevOps Skill Stack
+# 🧰 Technical Skill Stack
 
 | Area | Tools |
 |-----|------|
+| **AI / ML** | NLP, Embeddings, Vector DBs (Chroma), Scikit-learn |
+| **Backend** | FastAPI, Python |
+| **MLOps / DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Cloud** | Azure (AKS, VNets, Key Vault, Storage) |
 | **IaC** | Terraform |
-| **Containers** | Docker, Kubernetes |
-| **CI/CD** | GitHub Actions |
 | **Monitoring** | Prometheus, Grafana |
 | **Security** | UFW, Nmap, Wireshark, Hydra |
 | **Scripting** | Python, Bash |
@@ -199,7 +179,6 @@
 # 🎓 Certifications
 
 - CompTIA Security+  
-- IBM Cybersecurity Fundamentals  
 - NCFE Level 3 Cyber Security Practices  
 
 ---
