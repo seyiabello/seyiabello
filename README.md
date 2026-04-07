@@ -1,187 +1,236 @@
-<!-- HEADER -->
-<h1 align="center">🤖 Oluwaseyi Bello - AI Engineer</h1>
+<!-- ======================= -->
+<!-- 🔥 HERO SECTION -->
+<!-- ======================= -->
+
+<h1 align="center">🤖 Oluwaseyi Bello</h1>
 
 <p align="center">
-🎓 MSc Human-Centred Artificial Intelligence (Data Science) - <strong>University of Exeter</strong><br>
-🎓 BSc Economics - <strong>University of Manchester</strong><br>
-⚙️ Building <strong>intelligent systems</strong>, <strong>AI infrastructure</strong>, and <strong>human-centred machine learning applications</strong><br>
-☁️ Strong foundation in <strong>MLOps, cloud, and secure system design</strong>
+  <b>AI Engineer · MLOps · Intelligent Systems</b>
+</p>
+
+<p align="center">
+  Building stateful AI systems, secure AI backends, and scalable ML infrastructure
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Cloud-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-First-green?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧠 Featured AI Engineering Projects
+<!-- ======================= -->
+<!-- 🧠 FEATURED AI PROJECTS -->
+<!-- ======================= -->
 
-## 🧠 Digital Self Memory & Personalisation Engine
-🔗 https://github.com/seyiabello/Digital-Self-Memory-Personalisation-Engine  
-
-**Stateful AI system enabling context-aware personalisation with privacy-first memory design.**
-
-### 🔑 Highlights
-- Layered memory architecture:
-  - Session Memory  
-  - Short-Term Memory (STM)  
-  - Long-Term Vector Memory (Chroma)  
-- Context retrieval via **embedding similarity (top-k retrieval)**  
-- Structured **Digital Self representation** (preferences, constraints, state)  
-- Explicit **privacy & forgetting controls**  
-- Transparent retrieval logging (explainable AI behaviour)  
-
-### ⚙️ Tech
-Python · ChromaDB · Embeddings · CLI system design  
-
-### 🧠 Why it matters
-- Solves a core limitation of modern AI systems: **lack of memory & personalisation**  
-- Demonstrates **AI system design thinking (not just model usage)**  
+# 🧠 Featured AI Systems
 
 ---
 
-## 🧠 Human-Centred AI Triage System
+## 🧠 Digital Self Memory & Personalisation Engine  
+🔗 https://github.com/seyiabello/Digital-Self-Memory-Personalisation-Engine  
+
+<p>
+<img src="./screenshots/architecture.png" width="100%"/>
+</p>
+
+**Stateful AI system enabling persistent, privacy-aware personalisation.**
+
+### 🔑 Key Capabilities
+- Layered memory architecture (Session · STM · LTM)  
+- Vector memory with embedding-based retrieval (Chroma)  
+- Structured **Digital Self representation**  
+- Explicit forgetting + privacy constraints  
+- Transparent retrieval logging (explainable AI)
+
+### 🧠 Why this stands out
+- Solves a core limitation of modern AI: **stateless interactions**
+- Demonstrates **true AI system design (not just model usage)**
+
+---
+
+## 🧠 Human-Centred AI Triage System  
 🔗 https://github.com/seyiabello/HCAI-Triage-A-Human-Centred-AI-System-for-Remote-Primary-Care-Early-Warning  
 
-**Clinician-in-the-loop AI system for remote healthcare decision support.**
+<p>
+<img src="./screenshots/triage-architecture.png" width="100%"/>
+</p>
 
-### 🔑 Highlights
+**Clinician-in-the-loop AI system for safe and explainable healthcare decision support.**
+
 - Multimodal data fusion  
 - Uncertainty-aware prediction (GBDT + Bayesian updates)  
 - Sequential decision-making (POMDP-inspired)  
-- Explainable outputs with human override  
-- Safety-first system design  
+- Explainable outputs + human override  
+- Safety-first deployment mindset  
 
-👉 Focus: **trust, safety, and real-world AI deployment**
+👉 Focus: **trust, safety, real-world AI systems**
 
 ---
 
-## 🤖 Secure AI Chatbot (Production-Ready Backend)
+## 🤖 Secure AI Chatbot (Production Backend)  
 🔗 https://github.com/seyiabello/secure-chatbot-demo  
 
-**End-to-end AI service demonstrating secure deployment, API design, and containerised inference.**
+<p>
+<img src="./screenshots/chatbot-architecture.png" width="100%"/>
+</p>
 
-### 🔑 Highlights
-- FastAPI-based inference service  
-- Dockerised for reproducible deployment  
-- Input/output validation and security controls  
-- Pytest-based testing for reliability  
-- Designed for safe AI interaction (guardrails-ready)  
+**Production-style AI service demonstrating deployment, security, and backend engineering.**
 
-### ⚙️ Tech
-Python · FastAPI · Docker · Pytest  
+- FastAPI inference API  
+- Dockerised deployment  
+- Input/output validation & security controls  
+- Pytest-based testing  
+- Guardrails-ready architecture  
 
-### 🧠 Why it matters
-- Demonstrates ability to **deploy AI systems as production services**  
-- Bridges gap between **ML models and real-world applications**  
+👉 Shows ability to **ship AI systems end-to-end**
 
 ---
 
-## 📊 Amazon Review Sentiment Analysis (ML System)
+## 📊 Amazon Review Sentiment Analysis  
 🔗 https://github.com/seyiabello/Amazon-Review-Sentiment-Analysis  
 
-**End-to-end NLP pipeline with feature engineering + model evaluation.**
+**End-to-end NLP pipeline with feature engineering and evaluation.**
 
-### 🔑 Highlights
-- TF-IDF (uni + bi-grams), LDA, PCA  
+- TF-IDF, LDA, PCA  
 - Models: Logistic Regression, SVM, MLP  
-- Best Accuracy: **0.832**  
-- Evaluation: F1 score, ROC curves, confusion matrix  
+- Accuracy: **0.832**  
+- Full evaluation pipeline  
 
-👉 Demonstrates **applied machine learning + experimentation workflow**
+👉 Demonstrates **ML experimentation + modelling**
 
 ---
 
-# ⚙️ AI Infrastructure & MLOps Projects
+<!-- ======================= -->
+<!-- ⚙️ MLOPS / INFRA -->
+<!-- ======================= -->
 
-## 🌩️ Azure Terraform Infrastructure (IaC)
+# ⚙️ AI Infrastructure & MLOps
+
+---
+
+## 🌩️ Azure Terraform Infrastructure  
 🔗 https://github.com/seyiabello/azure-terraform-infra  
 
-**Production-style cloud infrastructure for scalable systems.**
+<p>
+<img src="./screenshots/azure-architecture.png" width="100%"/>
+</p>
 
-- Modular Terraform architecture  
-- Remote state backend (Azure Blob Storage)  
-- AKS cluster + ACR integration  
+- Modular Terraform IaC  
+- AKS + ACR integration  
 - Managed identities + Key Vault  
-- Secure image pipelines  
+- Secure cloud architecture  
 
 ---
 
-## 🏗️ End-to-End DevOps / Platform Engineering (Nimbus)
+## 🏗️ Nimbus DevOps Platform  
 🔗 https://github.com/seyiabello/End-to-end-devops-project-nimbus-infra  
 
-**Full cloud-native platform pipeline: build → deploy → monitor**
+<p>
+<img src="./screenshots/nimbus-architecture.png" width="100%"/>
+</p>
 
-- Docker → AKS deployment  
-- GitHub Actions CI/CD  
-- Prometheus + Grafana observability  
+- CI/CD (GitHub Actions)  
+- Docker → Kubernetes deployment  
+- Prometheus + Grafana monitoring  
 
-👉 Foundation for **production AI system deployment**
-
----
-
-## 🔁 CI/CD Pipeline Automation
-🔗 https://github.com/seyiabello/CI-CD-Pipeline---Automating-Build-and-Deployment  
-
-- Automated build, test, deploy workflows  
-- Reproducible engineering pipelines  
+👉 Foundation for **production AI systems**
 
 ---
 
-## ☸️ Kubernetes Deployment
+## ☸️ Kubernetes Deployment  
 🔗 https://github.com/seyiabello/Deploying-to-Kubernetes-Cluster  
 
-- Container orchestration fundamentals  
-- Scalable service deployment  
+- Scalable container orchestration  
+- Deployment strategies  
 
 ---
 
-# 🛡️ Security & Responsible AI Foundations
+## 🔁 CI/CD Automation  
+🔗 https://github.com/seyiabello/CI-CD-Pipeline---Automating-Build-and-Deployment  
 
-## 🔒 Linux Firewall Hardening (UFW)
+- Automated pipelines  
+- Reproducible workflows  
+
+---
+
+<!-- ======================= -->
+<!-- 🛡️ SECURITY -->
+<!-- ======================= -->
+
+# 🛡️ Security & Responsible AI
+
+---
+
+## 🔒 Linux Firewall Hardening  
 🔗 https://github.com/seyiabello/ubuntu-firewall-ufw  
 
-- Least-privilege firewall rules  
-- Network validation with Nmap  
+- Least-privilege rules  
+- Nmap validation  
 
 ---
 
-## 🧪 Cybersecurity Home Lab
+## 🧪 Cybersecurity Home Lab  
 🔗 https://github.com/seyiabello/cybersecurity-home-lab  
 
-- Kali attacker / Ubuntu target  
-- SSH brute-force simulation (Hydra)  
-- Network scanning & traffic analysis  
+- Offensive + defensive security  
+- SSH brute-force (Hydra)  
+- Network analysis  
 
 ---
 
-## 🌐 Network Analysis (Wireshark)
+## 🌐 Network Traffic Analysis  
 🔗 https://github.com/seyiabello/network-traffic-analysis-wireshark  
 
-- Packet capture & filtering  
-- Stream reconstruction  
+- Packet inspection  
 - Protocol analysis  
 
 ---
 
-# 🧰 Technical Skill Stack
+<!-- ======================= -->
+<!-- 🧰 SKILLS -->
+<!-- ======================= -->
 
-| Area | Tools |
-|-----|------|
-| **AI / ML** | NLP, Embeddings, Vector DBs (Chroma), Scikit-learn |
-| **Backend** | FastAPI, Python |
-| **MLOps / DevOps** | Docker, Kubernetes, GitHub Actions |
-| **Cloud** | Azure (AKS, VNets, Key Vault, Storage) |
-| **IaC** | Terraform |
-| **Monitoring** | Prometheus, Grafana |
-| **Security** | UFW, Nmap, Wireshark, Hydra |
-| **Scripting** | Python, Bash |
-| **OS** | Linux |
+# 🧰 Tech Stack
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=flat)
+![ChromaDB](https://img.shields.io/badge/VectorDB-Chroma-blue?style=flat)
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat)
+
+### ☁️ Cloud & MLOps
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=flat)
+
+### 🛡️ Security
+![Security+](https://img.shields.io/badge/CompTIA-Security+-red?style=flat)
 
 ---
 
-# 🎓 Certifications
+<!-- ======================= -->
+<!-- 🎯 FOCUS -->
+<!-- ======================= -->
 
-- CompTIA Security+  
-- NCFE Level 3 Cyber Security Practices  
+# 📌 Current Focus
+
+- 🧠 Stateful AI systems with memory and personalisation  
+- 🤖 Secure AI backends and LLM applications  
+- ☁️ MLOps pipelines for production AI deployment  
+- 🛡️ Responsible AI and safety-first system design  
 
 ---
+
+<!-- ======================= -->
+<!-- 📊 STATS -->
+<!-- ======================= -->
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyiabello&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160px"/>
@@ -189,6 +238,10 @@ Python · FastAPI · Docker · Pytest
 </p>
 
 ---
+
+<!-- ======================= -->
+<!-- 🌍 CONNECT -->
+<!-- ======================= -->
 
 # 🌍 Connect
 
