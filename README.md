@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<h1 align="center">🤖 Oluwaseyi Bello — AI Engineer</h1>
+<h1 align="center">🤖 Oluwaseyi Bello - AI Engineer</h1>
 
 <p align="center">
-🎓 MSc Human-Centred Artificial Intelligence (Data Science) — <strong>University of Exeter</strong><br>
-🎓 BSc Economics — <strong>University of Manchester</strong><br>
+🎓 MSc Human-Centred Artificial Intelligence (Data Science) - <strong>University of Exeter</strong><br>
+🎓 BSc Economics - <strong>University of Manchester</strong><br>
 ⚙️ Building <strong>intelligent systems</strong>, <strong>AI infrastructure</strong>, and <strong>human-centred machine learning applications</strong><br>
 ☁️ Strong foundation in <strong>MLOps, cloud, and secure system design</strong>
 </p>
