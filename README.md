@@ -66,6 +66,12 @@
 ## 🤖 Secure AI Chatbot (Production Backend)  
 🔗 https://github.com/seyiabello/secure-chatbot-demo  
 
+<p align="center">
+  <img src="./screenshots/secure%20llm%20chatbot%20system.PNG" width="100%"/>
+</p>
+
+<p align="center"><i>Architecture: Secure LLM pipeline with guardrails, resilience, and logging</i></p>
+
 **Production-style AI service demonstrating deployment, security, and backend engineering.**
 
 - FastAPI inference API  
